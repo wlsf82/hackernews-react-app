@@ -1,3 +1,5 @@
+/// <reference types="@walmyr-filho/cy-press/src" />
+
 describe('Hacker Stories Sample React App', () => {
   it('searches for "JavaScript"', () => {
     cy.visit('https://wlsf82-hacker-stories.web.app/')
